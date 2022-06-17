@@ -1,0 +1,5 @@
+<p class = "dd"><img class = "b1 scale"  src ="german.JPG" align = "middle">Крахоткин Герман Егорович</->
+    <p class = "dd"><img class = "b1 scale"  src ="radik.png" align = "middle">Самусь Родион Андреевич</p>
+    <p class = "dd"><img class = "b1 scale"  src ="maksim.png" align = "middle">Мурашко Максим Петрович</p>
+    <p class = "dd"><img class = "b1 scale"  src ="anton.png" align = "middle">Майсак Антон Владимирович</p>
+    <p class = "dd"><img class = "b1 scale"  src ="bisik.png" align = "middle">Бисик Максим Дмитриевич</p>
